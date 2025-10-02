@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.vscode/
+.idea/
+build/
+*.zip
+*.hex
+*.bin
